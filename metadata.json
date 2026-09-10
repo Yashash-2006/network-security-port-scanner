@@ -1,0 +1,6 @@
+{
+  "name": "Network Security Port Scanner",
+  "description": "Interactive network security port scanner with target resolution, configurable port ranges, real-time TCP socket probing, status identification, and security documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
